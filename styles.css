@@ -1,0 +1,14 @@
+/**
+.navbar{
+    font-family: 'Dancing Script', cursive;
+}**/
+.carousel-item img{
+    height:80vh;
+    width: 100%;
+}
+h1{
+    font-family: 'Dnncing Script', cursive;
+}
+.last-img{
+    height:50vh;
+}
